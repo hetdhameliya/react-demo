@@ -1,0 +1,39 @@
+.todo_main_page {
+
+    .heading {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 1rem;
+
+        .heding_text {
+            font-size: 23px;
+            font-weight: 600;
+
+        }
+
+    }
+
+    .btn_div {
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        margin-top: 1rem;
+        padding: 1rem;
+    }
+
+    .table_div{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 1rem;
+        width: 90%;
+    }
+
+    .Mui-selected{
+        border-color: none !important;
+    }
+
+
+  
+}
